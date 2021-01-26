@@ -1,0 +1,31 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "FAMSF",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "36eee76d-1d50-46e4-a378-1623b9b5bdd2",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
